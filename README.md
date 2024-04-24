@@ -7,11 +7,11 @@ librería pg, Propiedades del objeto result y la asincronía en una consulta, In
 consultando datos, como también Actualizando y eliminando datos.
 
 Contexto: En este desafío deberás desarrollar una aplicación en Node que realice consultas a PostgreSQL con el paquete “pg” para:
-● Agregar un nuevo estudiante.
-● Consultar los estudiantes registrados.
-● Consultar estudiante por rut.
-● Actualizar la información de un estudiante.
-● Eliminar el registro de un estudiante.
+- Agregar un nuevo estudiante.
+- Consultar los estudiantes registrados.
+- Consultar estudiante por rut.
+- Actualizar la información de un estudiante.
+- Eliminar el registro de un estudiante.
 
 ## Sobre el proyecto 🚀
 
