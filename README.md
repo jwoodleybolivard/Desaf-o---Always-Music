@@ -28,7 +28,7 @@ Contexto: En este desafío deberás desarrollar una aplicación en Node que real
 
 👌 5. Crear una función asíncrona para eliminar el registro de un estudiante de la base de datos.
 
-👉 Nota: Agregar control de ruta No Existente, se deben manejar control de errores con bloques try/catch, y usar variedad de errores y respuestas del servidor según sean necesarias.
+👉 Nota: Agregar manejo de variedad de errores.
 
 ### Prerrequisitos 📋
 
